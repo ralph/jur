@@ -4,6 +4,7 @@
 }
 
 #save_the_date {
+  width:800px;
 	margin: 26px auto 50px;
 	position:relative;
 }
@@ -14,7 +15,7 @@
 
 #slides .next,#slides .prev {
 	position:absolute;
-	top:107px;
+	top:255px;
 	left:-39px;
 	width:24px;
 	height:43px;
