@@ -1,59 +1,11 @@
-#save_the_date {
-	width:600px;
-	height:350px;
-	position:relative;
-}
-
-#frame {
-	position:absolute;
-	z-index:0;
-	width:739px;
-	height:341px;
-	top:-3px;
-	left:-80px;
-}
-
-/*
-	Slideshow
-*/
-
-#slides {
-	position:absolute;
-	top:15px;
-	left:4px;
-	z-index:100;
-}
-
-/*
-	Slides container
-	Important:
-	Set the width of your slides container
-	Set to display none, prevents content flash
-*/
-
 .slides_container {
-	width:570px;
-	overflow:hidden;
+  width:800px;
+  height:533px;
+}
+
+#save_the_date {
+	margin: 26px auto 50px;
 	position:relative;
-	display:none;
-}
-
-/*
-	Each slide
-	Important:
-	Set the width of your slides
-	If height not specified height will be set by the slide content
-	Set to display block
-*/
-
-.slides_container a {
-	width:570px;
-	height:270px;
-	display:block;
-}
-
-.slides_container a img {
-	display:block;
 }
 
 /*
@@ -71,7 +23,7 @@
 }
 
 #slides .next {
-	left:585px;
+	left:815px;
 }
 
 /*

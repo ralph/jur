@@ -1,5 +1,6 @@
 body {
 	background-color: #fcfbf5;
+	color: #8a8a8a;
 }
 
 a {
@@ -9,17 +10,16 @@ a {
 h1 {
 	background-image: url(../images/header.png);
 	overflow: hidden;
-	padding-top: 370px;
+	padding: 360px 0 0 0;
 	width: 960px;
 	height: 0;
+	margin: 0;
 }
 
 ul#navigation {
-	width: 100%;
 	font-size: 1.5em;
 	list-style-type: none;
 	list-style-image: none;
-	margin: 40px 0 99px;
 	padding: 0;
 }
 
@@ -37,7 +37,8 @@ ul#navigation li a {
 	text-decoration: none;
 }
 
-ul#navigation li a:hover {
+ul#navigation li a:hover,
+ul#navigation li a.selected {
 	background-color: #bd0055;
 	color: #fcfbf5;
 }
@@ -50,7 +51,7 @@ h3 {
 	color: #bd0055;
 }
 
-div.hidden {
+.hidden {
 	display: none;
 }
 
@@ -62,4 +63,17 @@ div.hidden {
 	color: #bd0055;
 	font-size: 0.8em;
 	text-align: center;
+}
+
+cite {
+	text-align: center;
+	display: block;
+	width: 450px;
+	margin: 50px auto;
+	font-size: 1.2em;
+}
+
+p.author {
+	font-weight: normal;
+	font-style: normal;
 }
