@@ -16,3 +16,13 @@ $(function(){
     hoverPause: true
   });
 });
+
+function initializeMenu() {
+  if(window.location.hash) {
+    var hash = window.location.hash;
+    toggleContent($('ul#navigation li a[href=' + hash + ']')[0]);
+  } else {
+    toggleContent($('ul#navigation li a')[0]);
+  }
+}
+window.onload = initializeMenu();
