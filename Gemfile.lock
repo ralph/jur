@@ -1,0 +1,23 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    RedCloth (4.2.7)
+    activemodel (3.0.7)
+      activesupport (= 3.0.7)
+      builder (~> 2.1.2)
+      i18n (~> 0.5.0)
+    activesupport (3.0.7)
+    builder (2.1.2)
+    document_mapper (0.1.0)
+      activemodel (~> 3.0.0)
+      activesupport (~> 3.0.0)
+    erubis (2.7.0)
+    i18n (0.5.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  RedCloth
+  document_mapper
+  erubis
