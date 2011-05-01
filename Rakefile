@@ -19,3 +19,9 @@ task :generate_index do
     f.write index.result(binding)
   end
 end
+
+
+desc 'deploy static html to s3'
+task :deploy do
+  system 's3cmd -c ./s3cfg sync --exclude "*" --include-from s3sync.include --delete-removed --acl-public . s3://www.johanna-und-ralph.de'
+end
