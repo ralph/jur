@@ -30,11 +30,9 @@
   <div id="content" class="container_12">
 
     <ul id="navigation">
-      <li><a href="#start" onclick="javascript:toggleContent(this)">Start</a></li>
-      <li><a href="#anfahrt" onclick="javascript:toggleContent(this)">Anfahrt</a></li>
-      <li><a href="#uebernachtung" onclick="javascript:toggleContent(this)">Übernachtung</a></li>
-      <li><a href="#dresscode" onclick="javascript:toggleContent(this)">Dresscode</a></li>
-      <li><a href="#hinweise" onclick="javascript:toggleContent(this)">Hinweise</a></li>
+      <% Text.all.each do |text| -%>
+        <li><a href="#<%= text.slug %>" onclick="javascript:toggleContent(this)"><%= text.title %></a></li>
+      <% end -%>
       <li><a href="#save-the-date" onclick="javascript:toggleContent(this)">Making of Save the Date</a></li>
     </ul>
     <div class="clear"></div>
@@ -51,17 +49,9 @@
       <div id="save_the_date">
         <div id="slides">
           <div class="slides_container">
-            <img src="images/save_the_date/01.jpg" alt="Save the date"/>
-            <img src="images/save_the_date/02.jpg" alt="Save the date"/>
-            <img src="images/save_the_date/03.jpg" alt="Save the date"/>
-            <img src="images/save_the_date/04.jpg" alt="Save the date"/>
-            <img src="images/save_the_date/05.jpg" alt="Save the date"/>
-            <img src="images/save_the_date/06.jpg" alt="Save the date"/>
-            <img src="images/save_the_date/07.jpg" alt="Save the date"/>
-            <img src="images/save_the_date/08.jpg" alt="Save the date"/>
-            <img src="images/save_the_date/09.jpg" alt="Save the date"/>
-            <img src="images/save_the_date/10.jpg" alt="Save the date"/>
-            <img src="images/save_the_date/11.jpg" alt="Save the date"/>
+            <% (1..11).to_a.each do |i| -%>
+              <img src="images/save_the_date/<%= sprintf("%02d", i) %>.jpg" alt="Save the date"/>
+            <% end-%>
           </div>
           <a href="#" class="prev"><img src="images/slides/arrow-prev.png" width="24" height="43" alt="Arrow Prev"/></a>
           <a href="#" class="next"><img src="images/slides/arrow-next.png" width="24" height="43" alt="Arrow Next"/></a>
@@ -71,9 +61,11 @@
   </div>
 
   <div id="footer" class="container_12">
-    <p>Johanna Dannehl &amp; Ralph von der Heyden • Desenißstr. 36 •
+    <p>
+      Johanna Dannehl &amp; Ralph von der Heyden • Desenißstr. 36 •
       22083 Hamburg • 040 87873778 • ralph at rvdh.de • johannadannehl
-      at googlemail.com</p>
+      at googlemail.com
+    </p>
   </div>
   <script src="javascripts/application.js" type="text/javascript"></script>
 </body>
