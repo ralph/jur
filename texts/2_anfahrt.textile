@@ -9,7 +9,7 @@ h3. Kirche in Leussow
 Evangel.- Luth. Pfarramt
 Friedensstr. 4
 19288 Leussow
-+49 38754/8000
+"Karte und Routenplaner":http://maps.google.com/maps?f=q&source=s_q&hl=de&geocode=&q=Friedensstr.+4+19288+Leussow&aq=&sll=37.0625,-95.677068&sspn=45.467317,93.076172&ie=UTF8&hq=&hnear=Friedensstra%C3%9Fe+4,+Leussow+19288+Leussow,+Ludwigslust,+Mecklenburg-Vorpommern,+Deutschland&ll=53.276146,11.288109&spn=0.033719,0.090895&z=14&iwloc=r0
 
 
 h3. Forsthof Glaisin
@@ -17,3 +17,5 @@ h3. Forsthof Glaisin
 Lindenstr. 16
 OT Glaisin
 19288 Ludwigslust
+"http://www.forsthof-glaisin.de/":http://www.forsthof-glaisin.de/
+"Karte und Routenplaner":http://maps.google.com/maps?f=q&source=s_q&hl=de&geocode=&q=forsthof+glaisin&aq=&sll=53.276146,11.288109&sspn=0.033719,0.090895&ie=UTF8&hq=&hnear=Am+Forsthof,+19288+Ludwigslust,+Mecklenburg-Vorpommern,+Deutschland&ll=53.2763,11.364498&spn=0.067438,0.181789&z=13&iwloc=A
