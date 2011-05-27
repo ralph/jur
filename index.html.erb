@@ -33,7 +33,7 @@
   <div id="content" class="container_12">
 
     <ul id="navigation">
-      <% Text.all.each do |text| -%>
+      <% Text.order_by(:position).all.each do |text| -%>
         <li><a href="#<%= text.slug %>" onclick="javascript:toggleContent(this)"><%= text.title %></a></li>
       <% end -%>
       <li><a href="#save-the-date" onclick="javascript:toggleContent(this)">Making of Save the Date</a></li>
