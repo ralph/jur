@@ -4,6 +4,11 @@ slug: anfahrt
 position: 2
 ---
 
+<iframe width="960" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?msa=0&amp;msid=206132920643723392572.0004a8bf1389732e82816&amp;ie=UTF8&amp;ll=53.28633,11.318012&amp;spn=0.02032,0.093045&amp;output=embed"></iframe>
+
+"Größere Karte in neuem Fenster öffnen":http://maps.google.com/maps/ms?msa=0&amp;msid=206132920643723392572.0004a8bf1389732e82816&amp;ie=UTF8&amp;ll=53.28633,11.318012&amp;spn=0.02032,0.093045&amp;source=embed
+
+
 h3. Kirche in Leussow
 
 Evangel.- Luth. Pfarramt
@@ -19,3 +24,11 @@ OT Glaisin
 19288 Ludwigslust
 "http://www.forsthof-glaisin.de/":http://www.forsthof-glaisin.de/
 "Karte und Routenplaner":http://maps.google.com/maps?f=q&source=s_q&hl=de&geocode=&q=forsthof+glaisin&aq=&sll=53.276146,11.288109&sspn=0.033719,0.090895&ie=UTF8&hq=&hnear=Am+Forsthof,+19288+Ludwigslust,+Mecklenburg-Vorpommern,+Deutschland&ll=53.2763,11.364498&spn=0.067438,0.181789&z=13&iwloc=A
+
+
+h3. Gemeinschaftshaus/Freiwillige Feuerwehr Loosen
+
+Hier findet das Get-Together am Freitag Abend und das Frühstück am Sonntag Morgen statt.
+Schulstr. 9a
+19288 Loosen
+"Karte und Routenplaner":http://maps.google.com/maps?q=Am+Forsthof,+19288+Ludwigslust,+Germany&hl=en&sll=37.0625,-95.677068&sspn=46.812293,93.076172&z=16&iwloc=A
