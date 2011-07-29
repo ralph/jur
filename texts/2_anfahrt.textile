@@ -6,7 +6,7 @@ position: 2
 
 <iframe width="960" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?msa=0&amp;msid=206132920643723392572.0004a8bf1389732e82816&amp;ie=UTF8&amp;ll=53.28633,11.318012&amp;spn=0.02032,0.093045&amp;output=embed"></iframe>
 
-"Größere Karte in neuem Fenster öffnen":http://maps.google.com/maps/ms?msa=0&amp;msid=206132920643723392572.0004a8bf1389732e82816&amp;ie=UTF8&amp;ll=53.28633,11.318012&amp;spn=0.02032,0.093045&amp;source=embed
+"Größere Karte in neuem Fenster öffnen":http://maps.google.com/maps/ms?msa=0&msid=206132920643723392572.0004a8bf1389732e82816&ie=UTF8&ll=53.28633,11.318012&spn=0.02032,0.093045&source=embed
 
 
 h3. Kirche in Leussow
