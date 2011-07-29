@@ -31,4 +31,4 @@ h3. Gemeinschaftshaus/Freiwillige Feuerwehr Loosen
 Hier findet das Get-Together am Freitag Abend und das Frühstück am Sonntag Morgen statt.
 Schulstr. 9a
 19288 Loosen
-"Karte und Routenplaner":http://maps.google.com/maps?q=Am+Forsthof,+19288+Ludwigslust,+Germany&hl=en&sll=37.0625,-95.677068&sspn=46.812293,93.076172&z=16&iwloc=A
+"Karte und Routenplaner":http://maps.google.com/maps?q=Schulstra%C3%9Fe+9a,+Loosen,+Alt+Krenzlin,+Deutschland&hl=en&ie=UTF8&sll=37.0625,-95.677068&sspn=46.812293,93.076172&z=16
