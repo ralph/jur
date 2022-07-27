@@ -40,7 +40,7 @@
     </ul>
     <div class="clear"></div>
 
-    <% Text.all.each do |text| -%>
+    <% Text.order_by(:position).all.each do |text| -%>
       <div class="content <%= text.slug %> <%= 'hidden' unless text.slug == 'start' %>">
       <h2><%= text.title %></h2>
       <%= RedCloth.new(text.content).to_html %>
