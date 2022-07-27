@@ -25,3 +25,9 @@ desc 'deploy static html to s3'
 task :deploy do
   system 's3cmd -c ./s3cfg sync --exclude "*" --include-from s3sync.include --delete-removed --acl-public . s3://www.johanna-und-ralph.de'
 end
+
+# Old host:
+# www.johanna-und-ralph.de.s3-website-eu-west-1.amazonaws.com.
+#
+# New host:
+# unique-pudding-6b31f2.netlify.app.

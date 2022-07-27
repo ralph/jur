@@ -4,7 +4,7 @@ slug: anfahrt
 position: 2
 ---
 
-<iframe width="960" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?msa=0&amp;msid=206132920643723392572.0004a8bf1389732e82816&amp;ie=UTF8&amp;source=embed&amp;ll=53.29785,11.304932&amp;spn=0.082075,0.329247&amp;z=12&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps/ms?msa=0&amp;msid=206132920643723392572.0004a8bf1389732e82816&amp;ie=UTF8&amp;source=embed&amp;ll=53.29785,11.304932&amp;spn=0.082075,0.329247&amp;z=12" style="text-align:left">Hochzeit Johanna &amp; Ralph</a> auf einer größeren Karte anzeigen</small>
+<iframe width="960" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?msa=0&amp;msid=206132920643723392572.0004a8bf1389732e82816&amp;ie=UTF8&amp;source=embed&amp;ll=53.29785,11.304932&amp;spn=0.082075,0.329247&amp;z=12&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps/ms?msa=0&amp;msid=206132920643723392572.0004a8bf1389732e82816&amp;ie=UTF8&amp;source=embed&amp;ll=53.29785,11.304932&amp;spn=0.082075,0.329247&amp;z=12" style="text-align:left">Hochzeit Johanna &amp; Ralph</a> auf einer größeren Karte anzeigen</small>
 
 
 h3. Kirche in Leussow
@@ -12,7 +12,7 @@ h3. Kirche in Leussow
 Evangel.- Luth. Pfarramt
 Friedensstr. 4
 19288 Leussow
-"Karte und Routenplaner":http://maps.google.com/maps?f=q&source=s_q&hl=de&geocode=&q=Friedensstr.+4+19288+Leussow&aq=&sll=37.0625,-95.677068&sspn=45.467317,93.076172&ie=UTF8&hq=&hnear=Friedensstra%C3%9Fe+4,+Leussow+19288+Leussow,+Ludwigslust,+Mecklenburg-Vorpommern,+Deutschland&ll=53.276146,11.288109&spn=0.033719,0.090895&z=14&iwloc=r0
+"Karte und Routenplaner":https://maps.google.com/maps?f=q&source=s_q&hl=de&geocode=&q=Friedensstr.+4+19288+Leussow&aq=&sll=37.0625,-95.677068&sspn=45.467317,93.076172&ie=UTF8&hq=&hnear=Friedensstra%C3%9Fe+4,+Leussow+19288+Leussow,+Ludwigslust,+Mecklenburg-Vorpommern,+Deutschland&ll=53.276146,11.288109&spn=0.033719,0.090895&z=14&iwloc=r0
 
 
 h3. Forsthof Glaisin
@@ -21,7 +21,7 @@ Lindenstr. 16
 OT Glaisin
 19288 Ludwigslust
 "http://www.forsthof-glaisin.de/":http://www.forsthof-glaisin.de/
-"Karte und Routenplaner":http://maps.google.com/maps?f=q&source=s_q&hl=de&geocode=&q=forsthof+glaisin&aq=&sll=53.276146,11.288109&sspn=0.033719,0.090895&ie=UTF8&hq=&hnear=Am+Forsthof,+19288+Ludwigslust,+Mecklenburg-Vorpommern,+Deutschland&ll=53.2763,11.364498&spn=0.067438,0.181789&z=13&iwloc=A
+"Karte und Routenplaner":https://maps.google.com/maps?f=q&source=s_q&hl=de&geocode=&q=forsthof+glaisin&aq=&sll=53.276146,11.288109&sspn=0.033719,0.090895&ie=UTF8&hq=&hnear=Am+Forsthof,+19288+Ludwigslust,+Mecklenburg-Vorpommern,+Deutschland&ll=53.2763,11.364498&spn=0.067438,0.181789&z=13&iwloc=A
 
 
 h3. Gemeinschaftshaus/Freiwillige Feuerwehr Loosen
@@ -29,4 +29,4 @@ h3. Gemeinschaftshaus/Freiwillige Feuerwehr Loosen
 Hier findet das Get-Together am Freitag Abend und das Frühstück am Sonntag Morgen statt.
 Schulstr. 9a
 19288 Loosen
-"Karte und Routenplaner":http://maps.google.com/maps?q=Schulstra%C3%9Fe+9a,+Loosen,+Alt+Krenzlin,+Deutschland&hl=en&ie=UTF8&sll=37.0625,-95.677068&sspn=46.812293,93.076172&z=16
+"Karte und Routenplaner":https://maps.google.com/maps?q=Schulstra%C3%9Fe+9a,+Loosen,+Alt+Krenzlin,+Deutschland&hl=en&ie=UTF8&sll=37.0625,-95.677068&sspn=46.812293,93.076172&z=16
